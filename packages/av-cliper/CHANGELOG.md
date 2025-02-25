@@ -1,5 +1,32 @@
 # @webav/av-cliper
 
+## 1.0.18
+
+### Patch Changes
+
+- @webav/internal-utils@1.0.18
+
+## 1.0.17
+
+### Patch Changes
+
+- ece970a: fix: named export 'resample' not found #368
+  - @webav/internal-utils@1.0.17
+
+## 1.0.16
+
+### Patch Changes
+
+- 0f58eae: fix: some files failed to decode. #364
+  - @webav/internal-utils@1.0.16
+
+## 1.0.15
+
+### Patch Changes
+
+- bd86a2d: refactor: generate a keyframe every 3 seconds.
+  - @webav/internal-utils@1.0.15
+
 ## 1.0.14
 
 ### Patch Changes

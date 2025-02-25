@@ -1,5 +1,37 @@
 # @webav/av-canvas
 
+## 1.0.18
+
+### Patch Changes
+
+- 33d7ebf: fix: 将 mouse 事件改为 pointer 事件，兼容移动端操作
+  - @webav/av-cliper@1.0.18
+  - @webav/internal-utils@1.0.18
+
+## 1.0.17
+
+### Patch Changes
+
+- Updated dependencies [ece970a]
+  - @webav/av-cliper@1.0.17
+  - @webav/internal-utils@1.0.17
+
+## 1.0.16
+
+### Patch Changes
+
+- Updated dependencies [0f58eae]
+  - @webav/av-cliper@1.0.16
+  - @webav/internal-utils@1.0.16
+
+## 1.0.15
+
+### Patch Changes
+
+- Updated dependencies [bd86a2d]
+  - @webav/av-cliper@1.0.15
+  - @webav/internal-utils@1.0.15
+
 ## 1.0.14
 
 ### Patch Changes
